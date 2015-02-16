@@ -11,7 +11,7 @@ Creates a fenced membership area with private content.
 
 == Description ==
 
-The Partners WordPress plugin creates a fenced membership area (separate from the built-in WordPress Users)
+The Partners plugin creates a fenced membership area (separate from the built-in WordPress Users)
 allowing you to manage a clean WordPress installation for your company's content management system (CMS).
 
 The plugin exposes several shortcodes:
