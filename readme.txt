@@ -2,8 +2,8 @@
 Contributors: mightydigital, farinspace
 Tags: private, member, membership, corporate, business
 Requires at least: 4.0
-Tested up to: 4.1
-Stable tag: 0.1.0
+Tested up to: 4.1.1
+Stable tag: 0.2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ To do this, wrap your private content with the [partners_is_authenticated] YOUR 
 3. Assisted default page creation
 
 == Changelog ==
+
+= 0.2.0 =
+* fixed preload issue
 
 = 0.1.0 =
 * initial release

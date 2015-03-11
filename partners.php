@@ -6,7 +6,7 @@ Plugin URI: http://mightydev.com/entrance/
 Description: Creates a fenced membership area with private content.
 Author: Mighty Digital
 Author URI: http://mightydigital.com
-Version: 0.1.0
+Version: 0.2.0
 */
 
 //partners_member_login
